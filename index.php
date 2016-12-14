@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            echo 'Netbeans proj1';
+            echo 'Netbeans proj2';
             echo 'New Line added';
             echo 'index line added';
             echo 'line1 added in server';
