@@ -7,3 +7,4 @@
  */
 
 echo 'test';
+echo 'test in dev node';
