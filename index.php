@@ -14,6 +14,7 @@ and open the template in the editor.
             echo 'Netbeans proj';
             echo 'New Line added';
             echo 'index line added';
+            echo 'line added in server';
         ?>
     </body>
 </html>
