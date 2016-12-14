@@ -8,3 +8,4 @@
 
 echo 'test';
 echo 'test in dev node';
+echo 'new line added';

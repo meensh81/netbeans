@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
             echo 'Netbeans proj';
             echo 'New Line added';
+            echo 'index line added';
         ?>
     </body>
 </html>
